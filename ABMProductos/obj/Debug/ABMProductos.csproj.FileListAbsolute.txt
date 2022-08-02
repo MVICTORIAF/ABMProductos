@@ -1,0 +1,60 @@
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe.config
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionII\2020\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe.config
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe.config
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.AssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe.config
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+C:\Users\Usuario\Desktop\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe.config
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+C:\Users\Usuario\Desktop\VIKI\MODELO\ABMProductos (19)\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe.config
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+C:\Users\Usuario\Desktop\PROYECTOS ORDENADOS PROGRA FINAL\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb
